@@ -1,15 +1,6 @@
-# 🌐 StudyIn - Infraestrutura de Redes e Servidores
+#  StudyIn - Infraestrutura de Redes e Servidores
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Infraestrutura-TI-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Windows%20Server-Active%20Directory-0078D6?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian">
-  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/Apache-Tomcat-red?style=for-the-badge&logo=apache">
-  <img src="https://img.shields.io/badge/Network-LAN%20%2B%20Wi--Fi-success?style=for-the-badge">
-</p>
 
----
 
 #  Sobre a Empresa
 
