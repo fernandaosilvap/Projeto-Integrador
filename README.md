@@ -1,5 +1,3 @@
-#  StudyIn - Infraestrutura de Redes e Servidores
-
 
 
 #  Sobre a Empresa
