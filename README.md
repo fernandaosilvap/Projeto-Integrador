@@ -1,4 +1,4 @@
-# 🏢 Sobre a Empresa
+#  Sobre a Empresa
 
 Somos a **StudyIn**, uma empresa focada em infraestrutura de TI, administração de servidores e implementação de redes locais.
 
@@ -16,7 +16,7 @@ O objetivo do nosso trabalho é fornecer e garantir:
 
 ---
 
-# 🖥️ Equipamentos Usados no Projeto
+#  Equipamentos Usados no Projeto
 
 Para desenvolver toda a infraestrutura apresentada no diagrama de rede, utilizamos os seguintes equipamentos e sistemas:
 
