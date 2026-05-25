@@ -2,7 +2,7 @@
 
 Somos a **StudyIn**, uma empresa focada em infraestrutura de TI, administração de servidores e implementação de redes locais.
 
-Neste projeto, fomos contratados pela **Prompt Four** para estruturar toda a infraestrutura de rede e servidores de um evento tecnológico. A Prompt Four está desenvolvendo uma aplicação Web para cadastrar todas as pessoas que assistirão à apresentação dos projetos (desde funcionários e alunos até visitantes). Essa aplicação também realizará sorteios utilizando o número de identificação gerado após o cadastro.
+Neste projeto, fomos contratados pela **STUDYLN** para estruturar toda a infraestrutura de rede e servidores de um evento tecnológico. A Prompt Four está desenvolvendo uma aplicação Web para cadastrar todas as pessoas que assistirão à apresentação dos projetos (desde funcionários e alunos até visitantes). Essa aplicação também realizará sorteios utilizando o número de identificação gerado após o cadastro.
 
 O objetivo do nosso trabalho é fornecer e garantir:
 
