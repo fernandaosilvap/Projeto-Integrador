@@ -1,46 +1,34 @@
+# 🏢 Sobre a Empresa
 
+Somos a **StudyIn**, uma empresa focada em infraestrutura de TI, administração de servidores e implementação de redes locais.
 
-#  Sobre a Empresa
+Neste projeto, fomos contratados pela **Prompt Four** para estruturar toda a infraestrutura de rede e servidores de um evento tecnológico. A Prompt Four está desenvolvendo uma aplicação Web para cadastrar todas as pessoas que assistirão à apresentação dos projetos (desde funcionários e alunos até visitantes). Essa aplicação também realizará sorteios utilizando o número de identificação gerado após o cadastro.
 
-A **StudyIn** é uma empresa especializada em soluções de infraestrutura de TI, redes corporativas, servidores e gerenciamento de sistemas. Nosso foco é desenvolver ambientes tecnológicos modernos, seguros e eficientes para empresas, instituições e eventos tecnológicos.
+O objetivo do nosso trabalho é fornecer e garantir:
 
-A empresa atua na implementação de:
-
-- Redes locais (LAN)
-- Redes sem fio (Wi-Fi)
-- Infraestrutura de servidores Linux e Windows
-- Virtualização
-- Segurança de rede
-- Banco de dados
-- Hospedagem de aplicações
-- Monitoramento e gerenciamento de serviços
-
-Nosso objetivo é oferecer uma estrutura robusta, estável e segura, garantindo alta disponibilidade dos serviços e conectividade eficiente entre todos os dispositivos da rede.
+- **Servidor Linux:** com Apache Tomcat, Java e MySQL para hospedagem da aplicação;
+- **Windows Server:** configurado com serviços essenciais de rede e gerenciamento (Active Directory, DHCP, DNS e IIS);
+- **Rede Local:** conectividade estável via LAN (cabo) e Wi-Fi;
+- **Segurança e Organização:** uma infraestrutura segura, monitorada e bem estruturada para o evento;
+- **Gerenciamento de Usuários:** controle centralizado de acessos e permissões;
+- **Hospedagem da Aplicação:** ambiente preparado para suportar múltiplos acessos simultâneos;
+- **Banco de Dados:** armazenamento seguro das informações dos participantes cadastrados.
 
 ---
 
-#  Objetivo do Projeto
+# 🖥️ Equipamentos Usados no Projeto
 
-Neste projeto, a StudyIn foi responsável por planejar, estruturar e administrar toda a infraestrutura de rede e servidores de um ambiente corporativo/evento tecnológico.
+Para desenvolver toda a infraestrutura apresentada no diagrama de rede, utilizamos os seguintes equipamentos e sistemas:
 
-A estrutura foi criada para suportar:
-
-- Cadastro de usuários
-- Hospedagem de aplicações web
-- Controle de acesso
-- Compartilhamento de arquivos
-- Banco de dados centralizado
-- Administração remota
-- Conectividade cabeada e sem fio
+- **1 iMac Apple** (Estação de trabalho macOS conectada à rede LAN)
+- **1 Notebook Windows** (Gerenciamento e administração da infraestrutura)
+- **1 Monitor adicional** (Auxílio no monitoramento e suporte)
+- **1 Servidor Linux Debian** (Hospedando Apache Tomcat, Java e banco de dados MySQL)
+- **1 Windows Server** (Controlador de Domínio, DHCP, DNS, IIS e compartilhamento de arquivos)
+- **1 Firewall Linux** (Proteção e controle de tráfego entre WAN e LAN)
+- **1 Switch Gerenciável** (Distribuição da rede cabeada)
+- **1 Access Point Wi-Fi** (Distribuição da rede sem fio)
+- **Smartphones conectados via Wi-Fi**
+- **Rede WAN/Internet** para acesso externo e comunicação com os serviços
 
 ---
-
-#  Nossa Missão
-
-Desenvolver soluções tecnológicas modernas que garantam:
-
-- Segurança  
-- Performance  
-- Escalabilidade  
-- Estabilidade  
--  Organização da infraestrutura  
