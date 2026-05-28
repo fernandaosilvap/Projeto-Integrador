@@ -1,8 +1,8 @@
 #  Sobre a Empresa
 
-Somos a **StudyIn**, uma empresa focada em infraestrutura de TI, administração de servidores e implementação de redes locais.
+## Somos a **NexusInfra**, uma empresa focada em infraestrutura de TI, administração de servidores e implementação de redes locais.
 
-Neste projeto, fomos contratados pela **STUDYLN** para estruturar toda a infraestrutura de rede e servidores de um evento tecnológico. O Studyln está desenvolvendo uma aplicação Web para cadastrar todas as pessoas que assistirão à apresentação dos projetos (desde funcionários e alunos até visitantes). Essa aplicação também realizará sorteios utilizando o número de identificação gerado após o cadastro.
+### Neste projeto, fomos contratados pela **NexCode** para estruturar toda a infraestrutura de rede e servidores de seu projeto. O NexCode está desenvolvendo uma aplicação Web de apoio para estudantes. 
 
 O objetivo do nosso trabalho é fornecer e garantir:
 
