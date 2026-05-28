@@ -32,3 +32,13 @@ Para desenvolver toda a infraestrutura apresentada no diagrama de rede, utilizam
 - **Rede WAN/Internet** para acesso externo e comunicação com os serviços
 
 ---
+
+# Integrantes
+- Giovanna
+- Eduardo
+- Fernanda
+- Gabriel
+- Daniel Dantas
+- João Ricardo
+- Kelli
+- Andy
